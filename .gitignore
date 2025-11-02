@@ -1,0 +1,19 @@
+# Godot-specific files
+.godot/
+!.godot/icon.svg.import
+!.godot/logo.svg.import
+
+# Mono/C# build files
+.mono/
+bin/
+obj/
+
+# Imported files
+.import/
+
+# Export files
+export_presets.cfg
+*.pck
+*.zip
+*.exe
+*.apk
